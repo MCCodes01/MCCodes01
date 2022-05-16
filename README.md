@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MCCodes01
+- 👋 Hi, I’m @MCIchael Cunningham
 - 👀 I’m interested in ...  Becoming a Software Engineer
 - 🌱 I’m currently learning ... Java, Python, C++
-- 💞️ I’m looking to collaborate on ... A developing ocr invoicing
+- 💞️ I’m looking to collaborate on ... Web Dev or Information analytics
 - 📫 How to reach me ... 
 
 <!---

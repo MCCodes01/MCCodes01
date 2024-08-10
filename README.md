@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Michael Cunningham
-- 👀 I’m interested in ...  Becoming a Software Engineer
-- 🌱 I’m currently learning ... Java, Python, C++
-- 💞️ I’m looking to collaborate on ... Back End Dev
-- 📫 How to reach me ... Mpcunningham528@gmail
+- 👋 Hi
+- 👀 I’m currently a ...  Software Engineering
+- 🌱 I’m Certified in ... Java, Python, C++
+- 💞️ I’m looking to collaborate
 
 <!---
 MCCodes01/MCCodes01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
